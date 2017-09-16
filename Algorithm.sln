@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{AB9BA9EB-02EC-4C1E-A301-76AC50649045}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traning", "TwoSum\Traning.csproj", "{AB9BA9EB-02EC-4C1E-A301-76AC50649045}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_TwoSum", "UnitTest_TwoSum\UnitTest_TwoSum.csproj", "{CBBF63F2-9CBF-4599-B162-008D025C9761}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest_TwoSum\UnitTest.csproj", "{CBBF63F2-9CBF-4599-B162-008D025C9761}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
